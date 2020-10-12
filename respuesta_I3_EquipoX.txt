@@ -1,0 +1,6 @@
+Respuesta Beta
+
+A-Master ahora se llama main
+B-Si se pudo
+C-Git merge (rama de gamma)
+
